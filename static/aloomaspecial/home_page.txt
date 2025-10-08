@@ -1,0 +1,47 @@
+<br><br><br><br>
+    <div class="containeralooma" id="contact">
+        <section class="boxalooma">
+        <div class="row">
+            <div class="col-12">
+                <h2 class="template4 h2alooma" style="margin-left: 400px; font-size: larger; font-family: Verdana, Geneva, Tahoma, sans-serif;">Frequently Asked Questions</h2>
+                <h4 class="template4 palooma" style="font-size:medium;">What is your cleaning and sanitization process between rentals?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Every unit returned to our yard undergoes a comprehensive sanitization process. We pressure wash the entire interior and exterior with a disinfectant solution, pump and clean the tank, and then restock it with fresh supplies and our eco-friendly deodorizing chemical. We guarantee a pristine unit with every delivery.</p>
+                <h4 class="template4 palooma" style="font-size:large;">What does the porta potty rental price typically include?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Our quotes are designed to be all-inclusive. The price includes the delivery of the unit, placement at your desired location, all necessary supplies (toilet paper, hand sanitizer, etc.), and the final pickup and waste disposal. For long-term rentals, it also includes the scheduled weekly service.</p>
+                <h4 class="template4 palooma" style="font-size:large;">What are the site requirements for placing a portable toilet?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">The ideal location is a flat, level, and firm surface that is accessible to our delivery and service trucks. Our trucks are large, so we need a clear path, free from low-hanging branches or wires, and enough space for the driver to maneuver safely.</p>
+                <h4 class="template4 palooma" style="font-size:large;">How far in advance should I reserve a luxury restroom trailer in #State?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">We highly recommend reserving a luxury restroom trailer at least 3-6 months in advance, especially if your event is on a weekend during the spring, summer, or fall. They are our most in-demand units and are often booked up to a year ahead of time.</p>
+                <h4 class="template4 palooma" style="font-size:large;">How do you calculate the number of portable toilets needed for an event?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">We use a proven formula that considers your estimated number of guests, the duration of the event in hours, and whether food and beverages (especially alcohol) will be served, as this increases usage. Contact us with these details, and we can provide a data-driven recommendation.</p>
+                <div class="callalooma mx-auto"><a href="tel:801441-6223">Click Here To Call Us (801) 441-6223</a></div>
+            </div>
+        </div>
+        </section>
+    </div>
+    
+    
+    <br><br><br><br>
+    <div class="containeralooma" style="background-color: transparent; width: 100%;">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">States In USA</h2>
+        <div class="row">
+            aloomaidallfotter
+        </div>
+        </section>
+    </div>
+
+    <br><br><br><br>
+    <div class="containeralooma" style="background-color: transparent; width: 100%;">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">Most popular cities we serve</h2>
+        <div class="row">
+            aloomaidallfottecity
+        </div>
+        </section>
+    </div>
